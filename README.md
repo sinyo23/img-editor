@@ -1,3 +1,3 @@
-# sinyo-img-editor.github.io
+# img-editor
 
 Happy For Use :)
